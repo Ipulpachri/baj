@@ -7,7 +7,7 @@ let moment = require('moment-timezone')
 const defaultMenu = {
   before: `
 ┏ ┅ ━━━〔 %me 〕━━━ ┅ ━
-┃❖ Halo, %name!
+┃❖ Halo, kak %name!
 ┃ 
 ┃❖ Tanggal: *%week %weton,*
 ┃                 *%date*
@@ -37,8 +37,6 @@ const defaultMenu = {
   body: '┃❖ %cmd %islimit %isPremium',
   footer: '┗ ┅ ━━★᭄ꦿ᭄ꦿ\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, text, command }) => {
@@ -222,7 +220,7 @@ if (teks == 'randomimage') tags = {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
           "title": `
-┏ ┅ ━〔  ۩๖ۣۜℜLƤ27 〕┅ ━
+┏ ┅ ━〔  Fachri Botz 〕┅ ━
 ┃
 ┃ ❖ ${ucapan()}
 ┃ _Halo_, *${name}*
