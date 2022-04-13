@@ -4,12 +4,12 @@
 
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['u', 'u']
-global.owner = ['62895372305081', '6281252474708'] // Owner isi yg sebelah kanan
-global.mods = ['62895372305081', '6285783417029'] // moderator
-global.prems = ['62895372305081', '6285747223233']  //premium
+global.owner = ['6285713041886', '6285713041886'] // Owner isi yg sebelah kanan
+global.mods = ['6285713041886', '6285713041886'] // moderator
+global.prems = ['6285713041886', '6285747223233']  //premium
 global.wait = 'Await'
 
-global.botwm = '·KochengBotz·'//UBAH JADI NAMAMU
+global.botwm = '·Fachri Botz·'//UBAH JADI NAMAMU
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'That smile is painful '
-global.author = 'Bot'
+global.packname = 'Fachri Botz by Fachri'
+global.author = 'Fachri Botz'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 global.multiplier = 39 // The higher, The harder levelup
