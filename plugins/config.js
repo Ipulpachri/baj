@@ -28,7 +28,7 @@ JIKA ADA CONFIG ERROR!!
 SILAHKAN HUBUNGIN CREATOR!!
 `.trim()
 conn.sendButtonLoc( m.chat, await ( await ft(fla + dan)).buffer(), caption,
-`©Rlp27`, `Pemilik bot`, `.creator`, m) 
+`© Fachri`, `Pemilik bot`, `.creator`, m) 
 }
 handler.help = ['Config']
 handler.tags = ['internet']
